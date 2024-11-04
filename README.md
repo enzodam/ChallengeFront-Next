@@ -44,7 +44,7 @@ Banco de dados configurado para o backend.
 
 Clone o repositório:
 
-git clone https://github.com/enzodam/ChallengeFront-React
+git clone https://github.com/enzodam/ChallengeFront-Next
 Acesse o diretório do projeto:
 
 
